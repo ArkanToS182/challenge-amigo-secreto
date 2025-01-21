@@ -1,7 +1,11 @@
-![image](https://github.com/user-attachments/assets/5f36a27a-0bc5-4503-9d66-a5b76dcaa22e)
 # Desafio Amigo Secreto - Oracle One Next Education
 
+![image](https://github.com/user-attachments/assets/5f36a27a-0bc5-4503-9d66-a5b76dcaa22e)
+
+
 Este é um jogo de amigo secreto que foi proposto como um desafio de lógica de programação para alunos do curso Oracle One juntamente com a plataforma educacional Alura.
+
+![image](https://github.com/user-attachments/assets/51f6968e-070d-430d-b642-5fa69decc0cb)
 
 
 # Funcionalidades
